@@ -1,2 +1,3 @@
 config.sh
+post-deploy.sh
 exclude-custom.txt
